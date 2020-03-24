@@ -7432,6 +7432,7 @@ message MetricsEvent {
 
     // CustomSettings constant
     CUSTOM_SETTINGS = 1999;
+    HELIOS_SETTINGS = 4000;
 
   }
 }
